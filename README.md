@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://miguelvelasco.com.ar">Miguel Velasco</a> 👋</h1>
 </div>
-<img src="https://imgur.com/a/pu5Fj31.png"></img>
+<img src="https://imgur.com/pu5Fj31.png"></img>
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
