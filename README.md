@@ -56,19 +56,10 @@
 <img src="https://img.shields.io/badge/WEB-ff9?style=for-the-badge">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p>An all-encompassing cryptocurrency ecosystem offering real-time updated prices, transaction history, up-to-the-minute news, and buying options for various cryptocurrencies. Highlighting a currency exchange calculator that seamlessly converts between coins. A comprehensive crypto experience, all in one place. </p>
 </div>
                                                                                       
 </td>                                                    
 </table>                                                                                 
 </div>
 <br>
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
