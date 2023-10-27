@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/WEB-80ffaa?style=for-the-badge">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>In this project, I collaborated closely with the client and a web designer to create a website that attracts patients and professionals. The site includes information about their services, job applications, and two contact form. We also set up a custom email configuration using PHP for form submissions. The project was deployed via FTP using FileZilla. </p>
 </div>                                                             
 </table>                                                                                 
 </div>
