@@ -20,10 +20,10 @@
 <a href="http://codebuilders.online/" target="_blank"><img src="https://imgur.com/aRe3AeV.png" width="400" alt="Local Storage Bookmark"></a>
 <p>
 <a href="https://codebuilders.online" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/WEB-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>As someone who frequently uses the bookmark bar to save tools and never finds anything, I decided to develop my own bookmark bar divided by categories, thus saving the link and name of the tool in local storage. If you're like me, give it a try and you'll love it! </p>
 </div>
                                                                                       
 </td>
