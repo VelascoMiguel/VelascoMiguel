@@ -32,7 +32,7 @@
                <br>
 <h3 align="center">Endom Salud</h3>
 <div align="center">                                       
-<a href="https://endomsalud.com" target="_blank"><img src="https://imgur.com/ZT3or9V.png" width="400" alt="Endom Salud"></a>
+<a href="https://endomsalud.com" target="_blank"><img src="https://imgur.com/72JXtyC.jpg" width="400" alt="Endom Salud"></a>
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
