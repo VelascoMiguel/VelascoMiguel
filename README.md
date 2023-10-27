@@ -36,7 +36,7 @@
 <br>
 <p>
 <a href="https://endomsalud.com" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge">
+<img src="https://img.shields.io/badge/WEB-80ffaa?style=for-the-badge">
 </a>
 </p>
 </p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
